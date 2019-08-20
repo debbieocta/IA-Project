@@ -1,4 +1,11 @@
 # IA-Project
 Extreme Event Climate Detection
 
-The IAfinal.ipynb notebook can be downloaded, but the Data Cube can't be accessed (it needs permission from ESDL in www.jupyterhub.earthsytemdatalab.net). Nevertheless, the dataframes that we generated from it are available as .csv (data.csv and data2.csv). 
+El notebook IAfinal.ipynb contiene el funcionamiento, puede ser descargado para visualizarlo en Jupyter, pero no es posible acceder al Data Cube (se realiza desde el jupyterhub del ESDL de acceso restringido www.jupyterhub.earthsytemdatalab.net)). Sin embargo, los dataframe generados a partir del cubo está disponibles como .csv (data.csv y data2.csv). 
+
+
+Realizado por:
+Maximiliano Garavito Chtefan
+María Daniela Lizarazo Sandoval 
+
+Curso de Inteligencia Artificial UIS 2019-1
